@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EX2yoav</string>
+    <string name="send">send</string>
+    <string name="insert_name_of_player">insert name of player</string>
+    <string name="hint">hint</string>
+</resources>
